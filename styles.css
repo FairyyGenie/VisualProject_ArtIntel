@@ -283,7 +283,7 @@ body {
   position: fixed;
   right: 0;
   bottom: 0;
-  background-color: #420c54;
+  background-color: #0061FF;
   text-align: center;
   height: 100vh;
   width: 4em;
@@ -316,7 +316,7 @@ body {
   top: 0;
   bottom: 0;
   right: 0;
-  background: #420c54;
+  background: #0061FF;
   color: #ffffff !important;
   z-index: 100;
   display: flex;
