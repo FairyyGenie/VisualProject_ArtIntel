@@ -148,7 +148,7 @@ body {
   transform: rotate(90deg) translateY(-100vh);
   transform-origin: top left;
   overflow-y: hidden;
-  width: 600vw;
+  width: 700vw;
 }
 
 /* each slide */
