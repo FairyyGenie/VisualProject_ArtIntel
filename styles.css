@@ -11,15 +11,14 @@
 body {
   background-image: linear-gradient(
       to right,
-      #241b21,
-      #2e162b,
-      #361037,
-      #390a47,
-      #390a47,
-      #390a4798,
-      #36055975
-    ),
-    url("assets/poster.png") !important;
+      #0061FF,
+      #0C73FF,
+      #1A87FF,
+      #269AFF,
+      #37b2ff91,
+      #45c7ff87,
+      #60efff8f
+    );
   background-size: auto 94vh;
   height: 100%;
   margin: 0;
@@ -33,7 +32,7 @@ body {
   cursor: pointer;
 }
 
-/* design to show the title animation "The USB curse" */
+/* design to show the title animation "The world we left behind" */
 .title {
   font-family: "Helvetica Light", "Helvetica", Arial, sans-serif;
   font-size: 128px;
@@ -124,11 +123,11 @@ body {
 .page-content {
   background: linear-gradient(
     to bottom,
-    #241b21,
-    #2e162b,
-    #361037,
-    #390a47,
-    #360559
+    #0061FF,
+    #0C73FF,
+    #1A87FF,
+    #269AFF,
+    #37b2ff,
   ) !important;
   width: 100vh;
   height: 100vw;
@@ -149,7 +148,7 @@ body {
   transform: rotate(90deg) translateY(-100vh);
   transform-origin: top left;
   overflow-y: hidden;
-  width: 700vw;
+  width: 600vw;
 }
 
 /* each slide */

@@ -1,10 +1,14 @@
 // function for landing page Titles
 document.addEventListener("click", () => {
   if (document.getElementById("title").innerText == "The") {
-    document.getElementById("title").innerText = "USB";
-  } else if (document.getElementById("title").innerText == "USB") {
-    document.getElementById("title").innerText = "Curse";
-  } else if (document.getElementById("title").innerText == "Curse") {
+    document.getElementById("title").innerText = "World";
+  } else if (document.getElementById("title").innerText == "World") {
+    document.getElementById("title").innerText = "We";
+  } else if (document.getElementById("title").innerText == "We") {
+    document.getElementById("title").innerText = "Left";
+  } else if (document.getElementById("title").innerText == "Left") {
+    document.getElementById("title").innerText = "Behind";
+  } else if (document.getElementById("title").innerText == "Behind") {
     document.getElementById("mainContainer").style.display = "none";
     document.getElementById("main").style.display = "flex";
   }
